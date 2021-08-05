@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on @Blueground as a Sr. Software Engineer (DevOps)
+- 🔭 I’m currently working on @Blueground as a Staff Software Engineer (DevOps)
 - 🕸️ https://pavlospt.com
 
 
